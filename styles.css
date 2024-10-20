@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #000; /* Черный фон */
+    color: #f4f4f4; /* Светлый текст для контраста */
+}
+
+header {
+    background: linear-gradient(to right, #000, #D5006D);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2); /* Светлая тень */
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #D5006D;
+    border-bottom: 2px solid #fff; /* Белая подчеркивающая линия */
+    padding-bottom: 5px;
+}
+
+section {
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 600px;
+    background-color: #1c1c1c; /* Темный фон для секций */
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* Светлая тень */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+a {
+    color: #D5006D;
+    text-decoration: none;
+}
